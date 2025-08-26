@@ -19,16 +19,8 @@
 - 🔭 Đang làm việc với các công nghệ **Fullstack Development**
 - 🌱 Luôn học hỏi và khám phá những công nghệ mới
 - 💡 Đam mê tạo ra những sản phẩm có giá trị thực tế
-- 📫 Liên hệ: **thanhpro0922@gmail.com**
+- 📫 Liên hệ: **huynhvanthanh.dev@gmail.com**
 - 🎯 Mục tiêu: Trở thành một **Senior Fullstack Developer**
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thanhdiner&theme=darkhub&no-frame=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
 
 ---
 
@@ -37,7 +29,7 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanh-huynh-van-8488b6336/)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanhpro0922@gmail.com)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huynhvanthanh.dev@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thanhdiner)
   
 </div>
@@ -47,50 +39,22 @@
 ## 💻 Tech Stack & Skills
 
 ### 🗣️ Programming Languages
-| Skill | Level | Experience |
-|-------|-------|------------|
-| ✨ **JavaScript** | ![90%](https://progress-bar.dev/90?color=F7DF1E) | Expert |
-| 🔷 **TypeScript** | ![88%](https://progress-bar.dev/88?color=007ACC) | Expert |
-| 📄 **HTML5** | ![98%](https://progress-bar.dev/98?color=E34F26) | Expert |
-| 💠 **C++** | ![85%](https://progress-bar.dev/85?color=00599C) | Advanced |
-| 🐍 **Python** | ![65%](https://progress-bar.dev/65?color=3776AB) | Intermediate |
-| ☕ **Java** | ![60%](https://progress-bar.dev/60?color=ED8B00) | Intermediate |
+✨ **JavaScript** • 🔷 **TypeScript** • 📄 **HTML5** • 💠 **C++** • 🐍 **Python** • ☕ **Java**
 
 ### ⚛️ Frontend Development
-| Skill | Level | Experience |
-|-------|-------|------------|
-| ⚛️ **React** | ![90%](https://progress-bar.dev/90?color=61DAFB) | Expert |
-| ▲ **Next.js** | ![85%](https://progress-bar.dev/85?color=000000) | Advanced |
-| 🔄 **Redux** | ![80%](https://progress-bar.dev/80?color=593D88) | Advanced |
+⚛️ **React** • ▲ **Next.js** • 🔄 **Redux**
 
 ### 🎨 Styling & Design
-| Skill | Level | Experience |
-|-------|-------|------------|
-| 🎨 **Tailwind CSS** | ![92%](https://progress-bar.dev/92?color=38B2AC) | Expert |
-| 🎀 **CSS3/SCSS/SASS** | ![88%](https://progress-bar.dev/88?color=1572B6) | Expert |
-| 🅱️ **Bootstrap** | ![78%](https://progress-bar.dev/78?color=563D7C) | Advanced |
+🎨 **Tailwind CSS** • 🎀 **CSS3/SCSS/SASS** • 🅱️ **Bootstrap**
 
 ### 🚀 Backend Development
-| Skill | Level | Experience |
-|-------|-------|------------|
-| 💚 **Node.js** | ![90%](https://progress-bar.dev/90?color=43853D) | Expert |
-| 🚀 **Express** | ![80%](https://progress-bar.dev/80?color=404D59) | Advanced |
-| 🐦 **NestJS** | ![80%](https://progress-bar.dev/80?color=E0234E) | Advanced |
-| 🕸️ **GraphQL** | ![65%](https://progress-bar.dev/65?color=E10098) | Intermediate |
+💚 **Node.js** • 🚀 **Express** • 🐦 **NestJS** • 🕸️ **GraphQL**
 
 ### 🗄️ Database
-| Skill | Level | Experience |
-|-------|-------|------------|
-| 🍃 **MongoDB** | ![85%](https://progress-bar.dev/85?color=4EA94B) | Advanced |
-| 🐬 **MySQL** | ![70%](https://progress-bar.dev/70?color=00000F) | Intermediate |
+🍃 **MongoDB** • 🐬 **MySQL**
 
 ### 🛠️ Tools & Technologies
-| Skill | Level | Experience |
-|-------|-------|------------|
-| 🐙 **Git/GitHub** | ![85%](https://progress-bar.dev/85?color=F05032) | Advanced |
-| 🐳 **Docker** | ![75%](https://progress-bar.dev/75?color=2496ED) | Intermediate |
-| ☁️ **AWS** | ![70%](https://progress-bar.dev/70?color=232F3E) | Intermediate |
-| 🐧 **Linux** | ![80%](https://progress-bar.dev/80?color=FCC624) | Advanced |
+🐙 **Git/GitHub** • 🐳 **Docker** • ☁️ **AWS** • 🐧 **Linux**
 
 <div align="center">
 
@@ -138,6 +102,7 @@
   *"The best way to predict the future is to implement it."* - David Heinemeier Hansson
   
   ---
+  
   
   ⭐️ From [thanhdiner](https://github.com/thanhdiner) | Made with ❤️ and ☕
   
