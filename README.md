@@ -41,14 +41,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thanhdiner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdiner&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhdiner&theme=tokyonight" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=thanhdiner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thanhdiner&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
