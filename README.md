@@ -8,7 +8,8 @@
   <a href="https://www.linkedin.com/in/thanh-huynh-van-8488b6336/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/thanhdiner"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:huynhvanthanh.dev@gmail.com"><img src="https://img.shields.io/badge/Email-huynhvanthanh.dev%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=thanhdiner&label=Views&color=0e75b6&style=flat" alt="Views" />
+  <!-- Keep the existing Komarev counter; Shields caches the badge for GitHub's image proxy. -->
+  <img src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dthanhdiner&query=string%28%28%2F%2F%2A%5Blocal-name%28%29%3D%22text%22%5D%29%5Blast%28%29%5D%29&label=Views&color=0e75b6&style=flat" alt="Views" />
 </div>
 
 ---
@@ -50,5 +51,5 @@
 ## Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhdiner&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhdiner&theme=tokyonight" alt="GitHub Activity Graph" width="100%" />
 </div>
